@@ -1,0 +1,14 @@
+layout_spectrum: 0.09886753233149648
+typography_spectrum: 0.679621506948024
+color:
+  brandStrength: 0.4172397484071553
+  lightness: 0.9579626729246229
+  saturation: 0.1703025191091001
+  rhythmicContrast: 0.5577502017840743
+  brandColors:
+    - '#000000'
+    - '#203850'
+    - '#F1F6F3'
+    - '#36616F'
+    - '#58B0C6'
+name: Bloink
